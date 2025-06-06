@@ -1,5 +1,8 @@
 # 2048 Game using Monte Carlo Tree Search
 
+
+![A snapshot from one of the game simulations](example_game.gif)
+
 This is an implementation of the 2048 game using a Monte Carlo Tree Search (MCTS) algorithm to play the game.
 
 ## Requirements
